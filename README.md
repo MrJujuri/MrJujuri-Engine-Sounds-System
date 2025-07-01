@@ -105,9 +105,10 @@ Config.EngineSounds = {
 
 ---
 
-## 🧪 Preview (Opsional)
+## 🧪 Preview 
 
-https://r2.fivemanage.com/UVI9rHtiT1qXpTharDhSF/Screenshot2025-07-01194717.png
+![Preview](https://r2.fivemanage.com/UVI9rHtiT1qXpTharDhSF/Screenshot2025-07-01194717.png)
+
 
 ---
 
