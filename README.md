@@ -124,3 +124,16 @@ Script ini dilindungi dengan lisensi "All Rights Reserved".
 
 🔒 Anda hanya diperbolehkan menggunakan script ini *apa adanya* di server Anda.  
 🚫 Tidak diperbolehkan memodifikasi, mengupload ulang, atau mendistribusikan kembali tanpa izin tertulis dari pemilik.
+
+Copyright (c) 2025 MrJujuri
+
+All rights reserved.
+
+This script is provided for use only. You may use this script as-is in your FiveM server, but you may not copy, modify, distribute, sublicense, or sell any part of this script without explicit written permission from the author.
+
+Unauthorized usage, redistribution, or modification is strictly prohibited.
+
+---
+
+Original base script by: https://github.com/JnKTechstuff/ParadoxEngineSounds
+Credits to JnKTechstuff for the foundational engine sound implementation.
