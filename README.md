@@ -107,7 +107,7 @@ Config.EngineSounds = {
 
 ## 🧪 Preview (Opsional)
 
-> Tambahkan video/GIF tampilan menu dan fitur agar lebih menarik
+https://r2.fivemanage.com/UVI9rHtiT1qXpTharDhSF/Screenshot2025-07-01194717.png
 
 ---
 
